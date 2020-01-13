@@ -18,3 +18,5 @@ library(ggplot2)
 ggplot(data_science_profile, aes(x=criteria, y=score)) + geom_bar(stat='identity') + theme(axis.text.x = element_text(angle = 90))
 
 ```
+
+![Profile](profile.png)
