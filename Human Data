@@ -1,0 +1,11 @@
+,Caitlyn,Sara,Mark,Jedd,Anna,Kate,Tim,Liz
+Genotype,AA,AA,AS,SS,AS,AS,SS,AA
+Temperature(F),99.5,97.0,100.3,99.0,98.7,101.9,97.2,101.1
+Socio-Economic Status,Rich,Lower Middle-Class,Lower Middle-Class,Super Rich,Upper Middle-Class,Poor,Upper Middle-Class,Rich
+Gender,She-Male,Female,Male,Undisclosed,Female,Female,Male,Female
+Income Level,High,Middle,Middle,High,Middle,Low,Middle,High
+Credit Score,805,590,680,835,723,520,666,748
+Race,Black,Asian,Caucasian,Asian American,Latino,Black,Latino,Asian
+Satisfaction Rating,Indifferent,Satisfied,Dissatisfied,Dissatisfied,Very Satisfied,Very dissatisfied,Dissatisfied,Indifferent
+Weight(Kg),85,92,76,69,58,87,73,90
+Political Party,Democrat,Republican,Republican,Democrat,Democrat,Republican,Democrat,Democrat
